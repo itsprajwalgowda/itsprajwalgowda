@@ -5,12 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprajwalgowda&label=Profile%20views&color=0e75b6&style=flat" alt="itsprajwalgowda" /> </p>
 
+- 🔭 I’m Recent Mechanical Engineering graduate 
+- 🤝 I’m actively seeking software engineering roles in the IT sector
 - 🌱 I’m currently learning **Spring Framework, React Js**
-
 - 💬 Ask me about **Java/J2EE, Hibernate, SQL, JavaScript**
-
 - 📫 How to reach me **prajwalgowda010@gmail.com**
-
 - ⚡ Fun fact **I am Funny😎**
 
 <h3 align="left">Connect with me:</h3>
